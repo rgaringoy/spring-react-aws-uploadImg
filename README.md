@@ -1,2 +1,3 @@
 # spring-react-aws-uploadImg
-Uploading image using Spring boot as back-end and react as a front-end. Then, we will deployed it in AWS 
+
+## Uploading image using Spring boot as back-end, react as a front-end and will deploy it in AWS S3
